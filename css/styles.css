@@ -1,0 +1,21 @@
+
+.col-md-4{
+    
+    width: 60%;
+    margin-left: 20%; 
+}
+
+.btn{
+    
+   width: 120px;
+}
+.footer-card{
+    
+   width: 35%;
+   margin-left: 32%;
+  
+}
+.footer-card .btn{
+   
+   margin-top: 20px;
+}
